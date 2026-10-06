@@ -1,4 +1,4 @@
-# Setting up a machine for the SCSE3040 lab practicals
+.# Setting up a machine for the SCSE3040 lab practicals
 
 *Do this once, before Practical P01. It takes about fifteen minutes on a good
 connection.*
